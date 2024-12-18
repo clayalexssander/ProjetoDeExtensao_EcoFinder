@@ -1,0 +1,57 @@
+inicial page :)
+
+
+#include <stdio.h>
+
+int main() {
+    char tecla;
+    printf("                                                                                    \n");
+    printf("                                                                                    \n");
+    printf("                                                                                    \n");
+
+    printf("                                                                                          -:-%%: ....::::--*               \n");
+    printf("                                                                                        ==     +@:           *              \n");
+    printf("                                                                                       #-       +%%.           *             \n");
+    printf("                                                                                      %%-         *%%.           #    %%       \n");
+    printf("                                                                                     %%:          .@#.          .#%%*#        \n");
+    printf("                                                                                    %%:          .#  #             =         \n");
+    printf("                                                                                    *+:        .%%    *           --         \n");
+    printf("                                                                                       #=.    .%%      +         -%%          \n");
+    printf("                                                                                          *- :%%       %%       :@           \n");
+    printf("                                                                                            %%#     +@*----:::::%%            \n");
+    printf("                                                                          @%%*+++======%%                             ##      \n");
+    printf("                                                                             *        :@                         #=. .%%     \n");
+    printf("                                                                             +         -*                     %%+:     :@    \n");
+    printf("                                                                            *           =                  .#:         =    \n");
+    printf("                                                                           #             +                  @:          *   \n");
+    printf("                                                                          %% .          .#%%+%%                  %%          #  \n");
+    printf("                                                                          @-           #    @                  #          :@    \n");
+    printf("                                                                          #          *                  %%      *         -@   \n");
+    printf("                                                                           *        +                  =+      #+::::::-*@    \n");
+    printf("                                                                            *      =@#%%%%*°           .= -*****@   \n");
+    printf("                                                                             =    -@-         #     :=                 *     \n");
+    printf("                                                                             --  :@=          #    -=                 #     \n");
+    printf("                                                                              %%-.%%+           #   -=                 #      \n");
+    printf("                                                                               @##            #    *                #       \n");
+    printf("                                                                                @%%            #     *              #        \n");
+    printf("                                                                                 %%+:          *      +           .#         \n");
+    printf("                                                                                       =%%####%%       + -****#          \n");
+    printf("                                                                                                =+                   \n");
+    printf("                                                                                    \n");
+    printf("                                                                                                                    \n");
+    printf("                                                                           --------------------------------------------------                                               \n");
+    printf("\n");
+    printf("                                                               #######                    #######    ##                 ###  \n");
+    printf("                                                               ##   #                     ##   #                        ##  \n");
+    printf("                                                               ## #     ####     ####     ## #     ###     #####        ##    ####    ######  \n");
+    printf("                                    ------------               ####    ##  ##   ##  ##    ####      ##     ##  ##    #####   ##  ##    ##  ##                      ------------  \n");
+    printf("                                                               ## #    ##       ##  ##    ## #      ##     ##  ##   ##  ##   ######    ##        \n");
+    printf("                                                               ##   #  ##  ##   ##  ##    ##        ##     ##  ##   ##  ##   ##        ##        \n");
+    printf("                                                               #######   ####     ####    ####      ####    ##  ##    ######   #####   ####       \n");
+    printf("\n                                                                          - SISTEMA DE LOCALIZAÇÂO DE MATERIAS RECICLAVEIS -                                                      \n");
+    printf("\n                                                                                                 +                                                   \n");
+    printf("\n                                                                                DIGITE QUALQUER TECLA PARA CONTINUAR                                                       \n");
+    scanf(                                                                                                 "%c",&tecla );
+    
+    return 0;
+}
